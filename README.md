@@ -1,1 +1,1 @@
-![Screenshot](Movies React App.png)
+![Alt text](/src/Movies%20React%20App.png "Optional title")
