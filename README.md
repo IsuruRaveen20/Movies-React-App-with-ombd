@@ -1,1 +1,1 @@
-![Screenshot](Movies React App.png)
+![Screenshot](src/Movies React App.png)
