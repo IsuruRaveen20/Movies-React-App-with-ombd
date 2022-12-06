@@ -1,1 +1,1 @@
-![alt text](Movies React App.png)
+![Screenshot](Movies React App.png)
